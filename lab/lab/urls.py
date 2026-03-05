@@ -22,6 +22,7 @@ urlpatterns = [
     # path('', include('myapp.urls')),
     # path('', include('lab2.urls'))
     # path('', include('lab3.urls')),
-    path('', include('lab4.urls')),
+    # path('', include('lab4.urls')),
+    path('', include('lab5.urls')),
 ]
 
